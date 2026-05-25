@@ -23,7 +23,7 @@
 💻 Passionate Full Stack Web Developer  
 🚀 Building modern, responsive & scalable web applications  
 🔥 Built **MiniTalkies** — a media-sharing platform inspired by YouTube & Instagram  
-⚡ Skilled in REST APIs, PHP & MySQL Integration   
+⚡ Skilled in REST APIs, PHP & MySQL Integration  
 🌱 Currently learning AI & Advanced Web Development  
 
 ---
@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,cpp,mysql,git,github,vscode,pycharm,postman" />
 
 </p>
 
@@ -40,12 +40,16 @@
 
 # 🛠️ Technologies & Tools
 
-| Frontend | Backend | Database | Tools |
-|----------|----------|-----------|-------|
-| HTML5 | PHP | MySQL | Git |
-| CSS3 | REST APIs | Database Management | GitHub |
-| JavaScript | AJAX | XAMPP | VS Code |
-
+| Category | Technologies |
+|----------|---------------|
+| Frontend | HTML5, CSS3, JavaScript |
+| Backend | PHP, REST APIs, AJAX |
+| Programming Languages | Python, C, C++ |
+| Database | MySQL, Database Management |
+| Development Tools | VS Code, PyCharm, Git, GitHub |
+| API Testing | Postman |
+| Hosting & Deployment | Hostinger Horizon, WinSCP |
+| Server Management | XAMPP, WAMP Server |
 ---
 
 # 📌 Featured Projects
@@ -79,12 +83,6 @@ Modern online clothing store with responsive design & interactive shopping exper
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgodse7-cmyk&layout=compact&theme=tokyonight" />
 
 </p>
-
----
-
-# 🎨 Creative Skills
- 
-✅ Social Media Content Design  
 
 ---
 
